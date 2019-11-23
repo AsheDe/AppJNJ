@@ -1,0 +1,5 @@
+<resources>
+    <integer name="columnas_historia">3</integer>
+    <integer name="columnas_calendario">2</integer>
+    <bool name="horizontal">true</bool>
+</resources>

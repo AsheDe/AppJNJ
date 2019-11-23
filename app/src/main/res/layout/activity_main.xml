@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/colorBlanco"
+    >
+<!--
+    <cu.bellalogica.jnjcuba2019.ParticleView
+        xmlns:pv="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/pv_1"
+        android:layout_weight="1"
+        android:background="#000"
+        pv:pv_host_text="FESTIVAL JNJ"
+        pv:pv_particle_text="CUBA"
+        pv:pv_text_anim_time="1000"
+        pv:pv_spread_anim_time="700"
+        pv:pv_host_text_anim_time="1000" />
+-->
+    <ImageView
+        android:layout_width="320dp"
+        android:layout_height="320dp"
+        android:scaleType="fitCenter"
+        android:layout_centerInParent="true"
+        android:id="@+id/imagenlogo"
+        />
+</RelativeLayout>

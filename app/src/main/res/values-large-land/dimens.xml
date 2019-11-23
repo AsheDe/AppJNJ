@@ -1,0 +1,4 @@
+<resources>
+    <integer name="columnas_historia">4</integer>
+    <bool name="horizontal">true</bool>
+</resources>

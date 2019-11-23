@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cu.bellalogica.jnjcuba2019.VerActividadEucaristia">
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        android:text="Lecturas de la Eucaristía
+ \nViernes 2 de agosto\nPrimera lectura"
+        android:layout_marginBottom="8dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Lectura del libro del Levítico (Lv 23,1.4-11.15-16.27.34b-37)\nEl Señor habló a Moisés:"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="-Estas son las festividades del Señor, las asambleas litúrgicas que convocaréis a su debido tiempo.
+\n    El día catorce del primer mes, al atardecer, es la Pascua del Señor. El día quince del mismo mes, es la fiesta de los panes ázimos dedicada al Señor. Comeréis panes ázimos durante siete días.
+\n\n    El primer día os reuniréis en asamblea litúrgica, y no haréis trabajo alguno. Los siete días ofreceréis oblaciones al Señor. Al séptimo os volveréis a reunir en asamblea litúrgica, y no haréis trabajo alguno."
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="El Señor habló a Moisés:"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="-Di a los israelitas:
+\n    Cuando entréis en la tierra que yo os voy a dar, y seguéis la mies, la primera gavilla se la llevaréis al sacerdote. Este la agitará ritualmente en presencia del Señor, para que os sea aceptada; la agitará el sacerdote el día siguiente al sábado. Pasadas siete semanas completas a contar desde el día siguiente al sábado –día en que lleváis la gavilla para la agitación ritual-, hasta el día siguiente al séptimo sábado, es decir, a los cincuenta días, haréis una nueva ofrenda al Señor.
+\n\n    El día diez del séptimo mes es el Día de la expiación. Os reuniréis en asamblea litúrgica, haréis penitencia y ofreceréis una oblación al Señor. El día quince del séptimo mes comienza la Fiesta de las Tiendas dedicada al Señor; y dura siete días. El día primero os reuniréis en asamblea litúrgica. No haréis trabajo alguno. Los siete días ofreceréis oblaciones al Señor.
+\n    Al octavo volveréis a reuniros en asamblea litúrgica y a ofrecer una oblación al Señor. Es día de reunión religiosa solemne. No haréis trabajo alguno.
+\n    Estas son las festividades del Señor, en las que os reuniréis en asamblea litúrgica, y ofreceréis al Señor oblaciones, holocaustos y ofrendas, sacrificios de comunión y libaciones, según corresponda a cada día. Palabra de Dios
+"
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Salmo responsorial\n(Sal 80,3-4.5-6ab.10-11ab)"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Ant.: Aclamad a Dios, nuestra fuerza.
+\nAcompañad, tocad los panderos,
+\nlas cítaras templadas y las arpas
+\ntocad la trompeta por la luna nueva,
+\npor la luna llena, que es nuestra fiesta. R/
+\n\n
+ Porque es una ley en Israel,
+\nun precepto del Dios de Jacob,
+\nuna norma establecida para José,
+\nal salir de la tierra de Egipto. R/
+
+\n“No tendrás un Dios extraño,
+\nno adorarás un dios extranjero,
+\nyo soy el Señor, Dios tuyo,
+\nque te saqué del país de Egipto.” R/
+\n"
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Evangelio\nLectura del santo Evangelio según san Mateo. (Mt 13,54-58)"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text=" En aquel tiempo, fue Jesús a su ciudad y se puso a enseñar en la sinagoga. La gente decía admirada:
+\n- ¿De dónde saca esa sabiduría y esos milagros? ¿No es el hijo del carpintero? ¿No es su madre María y sus hermanos Santiago, José, Simón y Judas? ¿No viven aquí todas sus hermanas? Entonces, ¿de dónde saca todo eso? Y desconfiaban de él.
+\nJesús les dijo:
+\n-Solo en su tierra y en su casa desprecian a un profeta.
+\nY no hizo allí muchos milagros, porque les faltaba fe. Palabra del Señor\n
+"
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+
+
+
+</LinearLayout>
+</android.support.v4.widget.NestedScrollView>

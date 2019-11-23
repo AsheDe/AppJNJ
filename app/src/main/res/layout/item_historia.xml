@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<android.support.v7.widget.CardView
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="8dp"
+    app:cardBackgroundColor="@color/colorPiedra"
+    android:layout_marginLeft="80dp"
+    android:id="@+id/card_historia"
+    android:layout_marginRight="16dp"
+    >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="4dp"
+        android:scaleType="centerCrop"
+        android:id="@+id/img_historia"
+        />
+
+</android.support.v7.widget.CardView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_anchor="@id/card_historia"
+        app:layout_anchorGravity="left|center_vertical"
+        android:text="2016"
+        android:textSize="32sp"
+        android:elevation="12dp"
+        android:id="@+id/anno"
+        />
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2075ab</color>
+    <color name="azultransparente">#9c2075ab</color>
+    <color name="colorPrimaryDark">#013184</color>
+    <color name="colorAccent">#e40401</color>
+    <color name="colorPiedra">#e4e0e1</color>
+    <color name="colorPiedraTransparente">#80e4e0e1</color>
+    <color name="colorBlanco">#FFF</color>
+    <color name="colornegro_500">#b10a0e11</color>
+    <color name="colornegro_100">#410a0e11</color>
+    <color name="colornegro_300">#6e0a0e11</color>
+    <color name="colornegro_700">#d50a0e11</color>
+    <color name="colornegro_900">#0a0e11</color>
+    <color name="colornegro_50">#19000000</color>
+    <color name="colornegro_10">#0a000000</color>
+    <color name="black_overlay">#66000000</color>
+
+</resources>

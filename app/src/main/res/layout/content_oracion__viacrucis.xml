@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".Actividad_Evento"
+
+    >
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/app_bar"
+        android:layout_width="match_parent"
+        android:layout_height= "@dimen/app_bar_height"
+        android:fitsSystemWindows="true"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        android:elevation="4dp"
+
+
+        >
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:id="@+id/toolbar_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fitsSystemWindows="true"
+            app:contentScrim="@color/colorPrimaryDark"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            app:expandedTitleTextAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            >
+
+
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@mipmap/viacrucis"
+                android:scaleType="fitXY"
+                app:layout_collapseMode="parallax"
+                android:fitsSystemWindows="true"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/screen"
+                android:scaleType="fitXY"
+                app:layout_collapseMode="parallax"
+                android:fitsSystemWindows="true"
+
+                />
+            <android.support.v7.widget.Toolbar
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:title="Viacrucis"
+                android:elevation="4dp"
+                android:background="@android:color/transparent"
+                android:id="@+id/toolbar"
+                app:titleTextColor="@color/colorBlanco"
+                android:fitsSystemWindows="false"
+                app:layout_collapseMode="pin"
+
+                />
+        </android.support.design.widget.CollapsingToolbarLayout>
+    </android.support.design.widget.AppBarLayout>
+
+
+    <android.support.v4.widget.NestedScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:context="cu.bellalogica.jnjcuba2019.VerActividadEucaristia">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/texto_examen_consciencia"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/text_margin"
+                android:text="@string/texto_oracion_viacrucis"
+                android:textSize="20sp" />
+
+            <!--
+            <android.support.design.button.MaterialButton android:layout_width="wrap_content" android:layout_margin="8dp"
+                android:layout_height="wrap_content" android:text="CON DIOS" android:id="@+id/examen_dios"android:layout_margin="8dp"android:layout_gravity="center"/>
+            <android.support.design.button.MaterialButton android:layout_width="wrap_content" android:layout_margin="8dp"
+                android:layout_height="wrap_content" android:text="Tu familia" android:id="@+id/examen_familia"android:layout_margin="8dp"android:layout_gravity="center"/>
+            <android.support.design.button.MaterialButton android:layout_width="wrap_content" android:layout_margin="8dp"
+                android:layout_height="wrap_content" android:text="Tus amigos/as" android:id="@+id/examen_amigos"android:layout_margin="8dp"android:layout_gravity="center"/>
+            <android.support.design.button.MaterialButton android:layout_width="wrap_content" android:layout_margin="8dp"
+                android:layout_height="wrap_content" android:text="Tu trabajo/estudio" android:id="@+id/examen_trabajo"android:layout_margin="8dp"android:layout_gravity="center"/>
+            <android.support.design.button.MaterialButton android:layout_width="wrap_content" android:layout_margin="8dp"
+                android:layout_height="wrap_content" android:text="Tu diversión/consumo" android:id="@+id/examen_diversion"android:layout_margin="8dp"android:layout_gravity="center"/>
+            <android.support.design.button.MaterialButton android:layout_width="wrap_content" android:layout_margin="8dp"
+                android:layout_height="wrap_content" android:text="Tú mismo" android:id="@+id/examen_tu"android:layout_margin="8dp"android:layout_gravity="center"/>
+-->
+
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/estacion_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/colorAccent"
+                android:text="Estacion I"
+                android:textColor="@color/colorBlanco"
+                
+                android:layout_margin="8dp"
+                android:layout_gravity="center"/>
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/estacion_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/colorAccent"
+                android:text="Estacion II"
+                android:textColor="@color/colorBlanco"
+
+                android:layout_margin="8dp"
+                android:layout_gravity="center"/>
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/estacion_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/colorAccent"
+                android:text="Estacion III"
+                android:textColor="@color/colorBlanco"
+
+                android:layout_margin="8dp"
+                android:layout_gravity="center"/>
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/estacion_4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/colorAccent"
+                android:text="Estacion IV"
+                android:textColor="@color/colorBlanco"
+
+                android:layout_margin="8dp"
+                android:layout_gravity="center"/>
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/estacion_5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/colorAccent"
+                android:text="Estacion V"
+                android:textColor="@color/colorBlanco"
+
+                android:layout_margin="8dp"
+                android:layout_gravity="center"/>
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/estacion_6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/colorAccent"
+                android:text="Estacion VI"
+                android:textColor="@color/colorBlanco"
+
+                android:layout_margin="8dp"
+                android:layout_gravity="center"/>
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/estacion_7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/colorAccent"
+                android:text="Estacion VII"
+                android:textColor="@color/colorBlanco"
+
+                android:layout_margin="8dp"
+                android:layout_gravity="center"/>
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/estacion_8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/colorAccent"
+                android:text="Estacion VIII"
+                android:textColor="@color/colorBlanco"
+
+                android:layout_margin="8dp"
+                android:layout_gravity="center"/>
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/estacion_9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/colorAccent"
+                android:text="Estacion IX"
+                android:textColor="@color/colorBlanco"
+
+                android:layout_margin="8dp"
+                android:layout_gravity="center"/>
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/estacion_10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/colorAccent"
+                android:text="Estacion X"
+                android:textColor="@color/colorBlanco"
+
+                android:layout_margin="8dp"
+                android:layout_gravity="center"/>
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/estacion_11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/colorAccent"
+                android:text="Estacion XI"
+                android:textColor="@color/colorBlanco"
+
+                android:layout_margin="8dp"
+                android:layout_gravity="center"/>
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/estacion_12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/colorAccent"
+                android:text="Estacion XII"
+                android:textColor="@color/colorBlanco"
+
+                android:layout_margin="8dp"
+                android:layout_gravity="center"/>
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/estacion_13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/colorAccent"
+                android:text="Estacion XIII"
+                android:textColor="@color/colorBlanco"
+
+                android:layout_margin="8dp"
+                android:layout_gravity="center"/>
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/estacion_14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/colorAccent"
+                android:text="Estacion XIV"
+                android:textColor="@color/colorBlanco"
+
+                android:layout_margin="8dp"
+                android:layout_gravity="center"/>
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/estacion_15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/colorAccent"
+                android:text="Estacion XV"
+                android:textColor="@color/colorBlanco"
+
+                android:layout_margin="8dp"
+                android:layout_gravity="center"/>
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/estacion_oracionfinal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/colorAccent"
+                android:gravity="center"
+                android:text="ORACIÓN FINAL"
+                android:textColor="@color/colorBlanco"
+                android:layout_margin="8dp"
+            android:layout_gravity="center"/>
+
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+
+</android.support.design.widget.CoordinatorLayout>

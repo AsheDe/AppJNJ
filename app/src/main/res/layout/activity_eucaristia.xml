@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="cu.bellalogica.jnjcuba2019.Eucaristia"
+    android:orientation="vertical"
+    >
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:title="EUCARISTÍA"
+        android:elevation="4dp"
+        android:background="@color/colorPrimaryDark"
+        android:id="@+id/toolbar"
+        app:titleTextColor="@color/colorBlanco"
+        />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@drawable/fondo_eucaristia"
+            >
+            <android.support.design.button.MaterialButton
+                android:layout_width="220dp"
+                android:layout_height="wrap_content"
+                android:minHeight="60dp"
+                android:text="VIVE LA EUCARISTÍA"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="100dp"
+                android:id="@+id/guia_eucaristica"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:textSize="22sp"
+                android:text="Lecturas de la Eucaristía"
+                android:layout_marginTop="32dp"
+                android:layout_marginLeft="24dp"
+                android:textColor="@color/colorBlanco"
+                />
+            <android.support.design.button.MaterialButton
+                android:layout_width="220dp"
+                android:layout_height="wrap_content"
+                android:minHeight="60dp"
+                android:text="Viernes 2 de agosto"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="24dp"
+                android:id="@+id/lecturas_viernes"
+                />
+            <android.support.design.button.MaterialButton
+                android:layout_width="220dp"
+                android:layout_height="wrap_content"
+                android:minHeight="60dp"
+                android:text="MISA DE ENVÍO"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="24dp"
+                android:id="@+id/misa_envio"
+                />
+        </LinearLayout>
+</LinearLayout>

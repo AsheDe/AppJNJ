@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    android:id="@+id/scroller"
+    >
+
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Historia"
+    android:descendantFocusability="blocksDescendants"
+    >
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        android:text="VIDEO MENSAJE DE MONSEÑOR DIONISIO GARCÍA, ARZOBISPO DE SANTIAGO DE CUBA"
+
+        android:id="@+id/jnjhab"
+        android:gravity="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="20sp"
+        android:layout_margin="16dp"
+        app:layout_constraintRight_toRightOf="@+id/historia_vid1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        />
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintDimensionRatio="V,16:12"
+        app:layout_constraintEnd_toStartOf="@id/historia_vid2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/jnjhab"
+        android:id="@+id/historia_vid1"
+        android:layout_margin="8dp"
+
+
+        >
+        <ImageView
+            android:id="@+id/imghistoria_vid1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:src="@mipmap/foto_vid_monsennor"
+            android:scaleType="fitXY"
+            />
+        <ImageView
+
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            app:srcCompat="@drawable/ic_play_circle"
+            android:layout_centerInParent="true"
+            />
+
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        android:text="JNJ HABANA 2016"
+        android:id="@+id/vidmonsennor"
+        android:gravity="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="20sp"
+        android:layout_margin="16dp"
+        app:layout_constraintLeft_toLeftOf="@+id/historia_vid2"
+        app:layout_constraintRight_toRightOf="parent"
+
+        />
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintDimensionRatio="V,16:12"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/historia_vid1"
+        app:layout_constraintTop_toBottomOf="@id/jnjhab"
+        android:id="@+id/historia_vid2"
+        android:layout_margin="8dp"
+
+        >
+        <ImageView
+            android:id="@+id/imghistoria_vid2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@mipmap/imgvideo1"
+            android:scaleType="fitXY"
+            />
+
+        <ImageView
+            android:id="@+id/playvideo_2"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            app:srcCompat="@drawable/ic_play_circle"
+
+            android:layout_centerInParent="true"
+            />
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/historia_vid2"
+        android:text="PRE-JNJ SANTIAGO 2018"
+        android:id="@+id/prejnjstgo"
+        android:gravity="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="20sp"
+        android:layout_margin="16dp"
+        />
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lista_historia"
+        app:layout_constraintTop_toBottomOf="@id/prejnjstgo"
+        android:layout_marginTop="16dp"
+
+        ></android.support.v7.widget.RecyclerView>
+
+
+
+</android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

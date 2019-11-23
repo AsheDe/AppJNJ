@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cu.bellalogica.jnjcuba2019">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SET_ALARM" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/iconob"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/iconob"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".OracionJNJ"
+            android:label="@string/title_activity_oración_jnj"
+            android:parentActivityName=".Principal"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="cu.bellalogica.jnjcuba2019.Principal" />
+        </activity>
+        <activity
+            android:name=".Oracion_Viacrucis"
+            android:label="@string/title_activity_oracion__viacrucis"
+            android:parentActivityName=".Principal"
+            android:theme="@style/AppTheme.Examen">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="cu.bellalogica.jnjcuba2019.Principal" />
+        </activity>
+        <activity
+            android:name=".Mapa"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:noHistory="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Principal"
+            android:label="@string/title_activity_principal"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="cu.bellalogica.presentacion.PRINCIPAL" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Actividad_Evento"
+            android:parentActivityName=".Lista_Cronograma"
+            android:theme="@style/AppTheme.Examen">
+            <intent-filter>
+                <action android:name="cu.bellalogica.presentacion.PONENTE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="cu.bellalogica.jnjcuba2019.Lista_Cronograma" />
+        </activity>
+        <activity
+            android:name=".Historia"
+            android:label="Galería JNJ"
+            android:parentActivityName=".Principal">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="cu.bellalogica.jnjcuba2019.Principal" />
+        </activity>
+        <activity
+            android:name=".Eucaristia"
+            android:label="@string/title_activity_eucaristia"
+            android:parentActivityName=".Principal"
+            android:theme="@style/AppTheme.Cantoral">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="cu.bellalogica.jnjcuba2019.Principal" />
+        </activity>
+        <activity
+            android:name=".DetalleApostol"
+            android:label="@string/title_activity_detalle_patrono"
+            android:parentActivityName=".Principal"
+            android:theme="@style/AppTheme.Examen">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="cu.bellalogica.jnjcuba2019.Principal" />
+        </activity>
+        <activity
+            android:name=".Canto"
+            android:label="@string/title_activity_canto"
+            android:parentActivityName=".Principal"
+            android:theme="@style/AppTheme.Cantoral">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="cu.bellalogica.jnjcuba2019.Principal" />
+        </activity>
+        <activity
+            android:name=".VerCancion"
+            android:label="@string/title_activity_ver_cancion"
+            android:parentActivityName=".Canto"
+            android:theme="@style/AppTheme.Cantoral">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="cu.bellalogica.jnjcuba2019.Canto" />
+        </activity>
+        <activity
+            android:name=".VerActividadEucaristia"
+            android:label="@string/title_activity_ver_actividad_eucaristia"
+            android:parentActivityName=".Eucaristia"
+            android:theme="@style/AppTheme.Cantoral">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="cu.bellalogica.jnjcuba2019.Eucaristia" />
+        </activity>
+        <activity
+            android:name=".Examen"
+            android:label="@string/title_activity_examen"
+            android:parentActivityName=".Principal"
+            android:theme="@style/AppTheme.Examen">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="cu.bellalogica.jnjcuba2019.Principal" />
+        </activity>
+        <activity
+            android:name=".Catequesis"
+            android:label="@string/title_activity_catequesis"
+            android:parentActivityName=".Principal"
+            android:theme="@style/AppTheme.Examen">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="cu.bellalogica.jnjcuba2019.Principal" />
+        </activity>
+        <activity
+            android:name=".Lista_Cronograma"
+            android:parentActivityName=".Principal">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="cu.bellalogica.jnjcuba2019.Principal" />
+        </activity>
+        <activity
+            android:name=".FullscreenImagenHistoria"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_fullscreen_imagen_historia"
+            android:parentActivityName=".Historia"
+            android:theme="@style/FullscreenTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="cu.bellalogica.jnjcuba2019.Historia" />
+        </activity>
+        <activity
+            android:name=".Recordatorios"
+            android:label="@string/title_activity_recordatorios"
+            android:parentActivityName=".Principal">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="cu.bellalogica.jnjcuba2019.Principal" />
+        </activity>
+        <activity
+            android:name=".Actividad_Reproductor"
+            android:theme="@style/Theme.Design.NoActionBar" />
+
+        <receiver android:name=".AlarmaBroadcastReceiver" />
+    </application>
+
+</manifest>

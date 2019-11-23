@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cu.bellalogica.jnjcuba2019.VerActividadEucaristia">
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Lecturas de la Eucaristía\nMisa de Envío"
+        android:textSize="24sp"
+        android:layout_marginBottom="8dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Primera lectura\nLectura del libro del Eclesiastés (Qo 1,2;2,21-23)"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Vaciedad sin sentido dice el Predicador, vaciedad sin sentido; todo es vaciedad.Hay quien trabaja con destreza, con habilidad y acierto, y tiene que legarle su porción al que no la ha trabajado. También esto es vaciedad y gran desgracia. ¿Qué saca el hombre de todo su trabajo y de los afanes con que trabaja bajo el sol? De día dolores, penas y fatigas; de noche no descansa el corazón. También esto es vaciedad. Palabra de Dios
+ \n"
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Salmo responsorial
+\n(Sal 89,2.3-4.5-6.12-13)"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text=" Ant.: Señor, tú has sido nuestro refugio de generación en generación.
+\nAntes que naciesen los montes,\n o fuera engendrado el orbe de la tierra,
+\ndesde siempre y por siempre
+\ntú eres Dios. R/
+\nTú reduces el hombre a polvo, diciendo:
+\n“Retornad, hijos de Adán.”
+\nMil años en tu presencia son un ayer, que pasó,
+\nuna vela nocturna. R/
+\nLas siembras año por año,
+\ncomo hierba que se renueva:
+\nque florece y se renueva por la mañana,
+\ny por la tarde la siegan y se seca. R/
+\nEnséñanos a calcular nuestros años,
+\npara que adquiramos un corazón sensato.
+\nVuélvete, Señor, ¿hasta cuándo?
+\nTen compasión de tus siervos. R/
+\n"
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Segunda lectura\nLectura de la carta del apóstol san Pablo a los Colosenses. (Col 3,1-5.9-11)\n\nHermanos"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Ya que habéis resucitado con Cristo, buscad los bienes de allá arriba, donde está Cristo, sentado a la derecha de Dios; aspirad a los bienes de arriba, no a los de la tierra. Porque habéis muerto; y vuestra vida está con Cristo escondida en Dios. Cuando aparezca Cristo, vida nuestra, entonces también vosotros apareceréis, juntamente con él, en gloria. Dad muerte a todo lo terreno que hay en vosotros: la fornicación, la impureza, la pasión, la codicia, y la avaricia, que es una idolatría. No segáis engañándoos unos a otros. Despojaos de la vieja condición humana, con sus obras, y revestíos de la nueva condición, que se va renovando como imagen de su creador, hasta llegar a conocerlo. En este orden nuevo no hay distinción entre judíos y gentiles, circuncisos e incircuncisos, bárbaros y escitas, esclavos y libres; porque Cristo es la síntesis de todo y está en todos. Palabra de Dios"
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Oremos:"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="En silencio presenta a Dios tu intención principal en esta misa, el motivo por el que ofreces la Eucaristía. Entonces, el obispo o sacerdote, colecta, recoge estas intenciones y se las presenta a Dios."
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Evangelio\nLectura del santo Evangelio según san Lucas (Lc 12,13-21)"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text=" En aquel tiempo, dijo uno del público a Jesús:
+\n-Maestro, dile a mi hermano que reparta conmigo la herencia.
+\nÉl le contestó:
+\n-Hombres, ¿quién me ha nombrado juez o árbitro entre vosotros?
+\nY dijo a la gente:
+\n-Mirad: guardaos de toda clase de codicia. Pues, aunque uno ande sobrado, su vida no depende de sus bienes.
+\nY les propuso una parábola:
+\n-Un hombre rico tuvo una gran cosecha. Y empezó a echar cálculos: ¿Qué haré? No tengo donde almacenar la cosecha.
+\nY se dijo: Haré lo siguiente: derribaré los graneros y construiré otros más grandes, y almacenaré allí todo el grano y el resto de mi cosecha. Y entonces me diré a mí mismo: “Hombre, tienes bienes acumulados para muchos años: túmbate, come, bebe y date buena vida”.
+\nPero Dios le dijo: “Necio, esta noche te van a exigir la vida. Lo que has acumulado, ¿de quién será?”
+\nAsí será el que amasa riquezas para sí y no es rico ante Dios. Palabra del Señor\n\n"
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+
+
+</LinearLayout>
+</android.support.v4.widget.NestedScrollView>

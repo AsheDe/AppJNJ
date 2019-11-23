@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_calendario"
+        android:icon="@drawable/icalendario"
+        android:title="@string/title_calendario"
+        app:showAsAction="withText"
+        />
+
+    <item
+        android:id="@+id/navigation_apostoles"
+        android:icon="@drawable/iponentes"
+        android:title="@string/title_apostoles"
+        app:showAsAction="withText"
+        />
+    <item
+        android:id="@+id/navigation_mapa"
+        android:icon="@drawable/imapa"
+        android:title="@string/title_mapa"
+        app:showAsAction="withText"/>
+
+    <item
+        android:id="@+id/navigation_masopciones"
+        android:icon="@drawable/ibotonhamburguesa"
+        android:title="@string/title_otros"
+        app:showAsAction="withText|always"
+
+        />
+
+</menu>

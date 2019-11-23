@@ -1,0 +1,704 @@
+<resources>
+    <string name="app_name">JNJ CUBA 2019</string>
+    <string name="title_activity_contenido">Contenido</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="title_inicio">Inicio</string>
+    <string name="title_calendario">Calendario</string>
+    <string name="title_mapa">MAPA</string>
+    <string name="title_apostoles">Patronos</string>
+    <string name="title_historia">Galería JNJ</string>
+    <string name="title_favoritos">Me gustan</string>
+    <string name="title_recordatorios">Recordatorios</string>
+    <string name="title_comunicar">Contáctenos</string>
+    <string name="title_eucaristia">Vive la Eucaristía</string>
+    <string name="title_examen">Examen de conciencia</string>
+    <string name="title_cantos">Cantos</string>
+    <string name="title_otros">Más</string>
+    <string name="dia1">Día 1</string>
+    <string name="dia2">Día 2</string>
+    <string name="dia3">Día 3</string>
+    <string name="texto_oracion_viacrucis">
+    La cruz de Jesucristo es la cruz del hombre. De un modo misterioso, Él estaba ya cargando con todos los pesos humanos. ¿Quién puede calcular esta carga? De un modo misterioso Él está compartiendo todos los sufrimientos humanos.
+        \n\nHoy queremos acercarnos a estos sufrimientos, los sufrimientos de Cristo, que son los sufrimientos de los hombres, y compartirlos. No basta compadecer a Cristo, es necesario padecer con Cristo. Padecer con los hermanos, que son también “Cristos en el camino de la vida”. Cada vez que aliviamos a un hermano que camina con la cruz, estamos aliviando a Jesús en su largo viacrucis. Él te lo agradece. Tú mismo, sin saber cómo, te sentirás aliviado.
+        \n\nOración: «Señor, ayúdanos a ver en las penas y los conflictos de cada día oportunidades para crecer como personas y asemejarnos más a ti. Danos fuerza para vivir en medio de ellos con paciencia, pero con valentía, firmemente confiados en tu ayuda; porque solo muriendo contigo resucitaremos contigo.» (Madre Teresa de Calcuta).
+    </string>
+    <string name="estaciones_viacrucis_1"> Jesús condenado a muerte
+\nV/ Te adoramos, oh Cristo y te bendecimos
+\nR/ Porque con tu santa Cruz redimiste al mundo
+\n\nJesús... ¡VEN A NUESTRO ENCUENTRO! Enséñanos en esta noche que, lejos de condenar, hemos de trabajar por una nueva humanidad en nuestra tierra y a no caer en la tentación de lavarnos las manos ante situaciones que piden nuestra opinión o decisión.
+</string>
+    <string name="estaciones_viacrucis_2"> El Señor con la Cruz a cuestas.
+\nV/ Te adoramos, oh Cristo y te bendecimos
+\nR/ Porque con tu santa Cruz redimiste al mundo
+\n\nSabemos, Señor, que la fuerza nos viene de la cruz y que en ella se esconde la victoria y el secreto de nuestra felicidad… Ayúdanos a entender el valor del sacrificio y de la sinceridad de nuestros gestos en favor de los demás. Y si el camino es áspero y las cargas insoportables que busquemos la fuerza que viene de lo alto.
+</string>
+    <string name="estaciones_viacrucis_3"> Cae Jesús en tierra por primera vez
+\nV/ Te adoramos, oh Cristo y te bendecimos
+\nR/ Porque con tu santa Cruz redimiste al mundo
+\n\nJesús; Tú que salvas y levantas al que a Ti grita, no dejes que pasemos de largo de aquellos que están arrojados en el puro asfalto bajo el peso de una cruz. Danos ojos para ver y, sobre todo, brazos para levantar.
+ </string>
+    <string name="estaciones_viacrucis_4"> Jesús encuentra a su madre.
+\nV/ Te adoramos, oh Cristo y te bendecimos
+\nR/ Porque con tu santa Cruz redimiste al mundo
+\n\nJesús; ayúdanos en esta noche, como María, a dar sin recibir nada a cambio...pero sobre todo a salir de las catacumbas de nuestra cobardía para razón de nuestra esperanza. Así, también nosotros seremos “madres”.
+</string>
+    <string name="estaciones_viacrucis_5">El Señor ayudado por un Cirineo
+\nV/ Te adoramos, oh Cristo y te bendecimos
+\nR/ Porque con tu santa Cruz redimiste al mundo
+\n\nAyúdanos, Señor, en esta noche a construir un cielo nuevo y una tierra nueva arrimando y brindando nuestro hombro a toda situación que nos parezca injusta y dolorosa.
+ </string>
+    <string name="estaciones_viacrucis_6"> La Verónica enjuga el rostro a Jesús.
+\nV/ Te adoramos, oh Cristo y te bendecimos
+\nR/ Porque con tu santa Cruz redimiste al mundo
+\n\nHoy, como ayer, todos podemos conseguir el mejor lienzo de DIOS para nuestras casas y para nuestras vidas: haciendo el bien sin mirar a quién. El amor gratuito se da sin condiciones y sin analizar situaciones: simplemente…se regala. ¿Hay algo mejor?
+ </string>
+    <string name="estaciones_viacrucis_7">Jesús cae en tierra por segunda vez.
+\nV/ Te adoramos, oh Cristo y te bendecimos
+\nR/ Porque con tu santa Cruz redimiste al mundo
+\n\nQueremos salir, Señor, de un agujero e irremediablemente nos precipitamos en otro. Pretendemos sonreír y lloramos; ansiamos levantarnos y, de nuevo, caemos bajo las cosas y los defectos de siempre. No nos dejes, Señor, sumergidos en el fatalismo de la propia debilidad; no nos dejes catapultados en la insensibilidad; en dar por bueno lo que es mediocre; en sentenciar como virtud lo que es cántaro agrietado. No permitas, Señor, que se endurezca la piel al peso de la cruz de cada día. Y si caemos Señor, que recordemos, que no es débil quién cae, sino fuerte el que se levanta.
+ </string>
+    <string name="estaciones_viacrucis_8">Jesús habla a las mujeres de Jerusalén.
+\nV/ Te adoramos, oh Cristo y te bendecimos
+\nR/ Porque con tu santa Cruz redimiste al mundo
+\n\nTú que al pie de la cruz nos dejaste como Madre a una mujer…haznos caer en la cuenta de la igualdad de hombre y mujer.... ¡háblanos Señor! para que en la defensa de la dignidad de cada persona no nos quedemos en simples palabras. Que el grito del mundo sea una llamada no al llanto y sí a nuestro compromiso personal.
+ </string>
+    <string name="estaciones_viacrucis_9">Cae Jesús en tierra por tercera vez.
+\nV/ Te adoramos, oh Cristo y te bendecimos
+\nR/ Porque con tu santa Cruz redimiste al mundo
+\n\nAyúdanos a levantar nuestros ojos a Ti y, en Ti, encontrar siempre oportuna respuesta. ¿Tres veces? No, Señor; ¡mil veces caes con el hombre cuando cae aplastado por las cruces que le llueven cada día sobre sus hombros!
+ </string>
+    <string name="estaciones_viacrucis_10">Jesús despojado de sus vestidos.
+\nV/ Te adoramos, oh Cristo y te bendecimos
+\nR/ Porque con tu santa Cruz redimiste al mundo
+\n\nSeñor, tú te has despojado de ti mismo, enséñanos a despojarnos de aquello que no nos deja “SER” felices.
+</string>
+    <string name="estaciones_viacrucis_11"> Jesús clavado en la cruz.
+\nV/ Te adoramos, oh Cristo y te bendecimos
+\nR/ Porque con tu santa Cruz redimiste al mundo
+\n\nQue vislumbremos, desde lo alto de la cruz, ese horizonte de las grandes hazañas que realizamos a favor de los demás. Que brille el sol de la fe en aquellos instantes donde sólo vemos absurdo aparente, angustia o desilusión. Incluso, Señor, que brille el sol para aquellos que nos clavan en abundantes maderos.
+</string>
+    <string name="estaciones_viacrucis_12">Jesús muere en la cruz.
+\nV/ Te adoramos, oh Cristo y te bendecimos
+\nR/ Porque con tu santa Cruz redimiste al mundo
+\n\nSeguirte a ti, Señor, no es querer sólo ser mejor: ES QUERER SER DIFERENTE. Es apostar por un mundo nuevo donde brille la VIDA antes que la MUERTE. Hoy, Señor, de nuevo se repite la historia: naciste en el silencio y mueres en la soledad. Viniste al mundo bajo la mirada atenta de una Madre y das tu último suspiro regalándonos a esa misma Madre.
+ </string>
+    <string name="estaciones_viacrucis_13">Jesús en los brazos de la madre.
+\nV/ Te adoramos, oh Cristo y te bendecimos
+\nR/ Porque con tu santa Cruz redimiste al mundo
+\n\nAyúdanos, Señor, a creer de verdad que aquel que entrega su vida la recobrará multiplicada en una eterna juventud más allá de las estrellas y del sol en el mismo cielo.
+
+\n\nComo María, nos agarraremos al cuerpo inerte de Jesús, porque sabemos que Él es buena cosecha que fructificará en la mañana de Resurrección.
+ </string>
+    <string name="estaciones_viacrucis_14">Jesús es puesto en el sepulcro.
+\nV/ Te adoramos, oh Cristo y te bendecimos
+\nR/ Porque con tu santa Cruz redimiste al mundo
+\n\nConcédenos sentirte vivo para que, cuando llegue el instante de nuestra partida, podamos con el corazón decirte: ¡Padre a tus manos encomiendo mi espíritu!
+
+\n\nTe bendecimos, Señor, más que nunca en esta noche...porque sabemos que estás vivo y acompañándonos indefinidamente.
+
+\n\nQue nos encontremos en esa otra realidad donde apunta y despunta ese silencio que ahora y, hasta el tercer día te humilla.
+ </string>
+    <string name="estaciones_viacrucis_15"> Jesús ha Resucitado.
+\nV/ Te adoramos, oh Cristo y te bendecimos
+\nR/ Porque con tu santa Cruz redimiste al mundo
+\n\nTe bendecimos, Señor, te damos gracias porque tu promesa está cumplida. Cristo ha resucitado y nos ha prometido prepararnos un sitio junto a ti. Sabemos de tu fidelidad y eso nos da esperanza y estímulo para nuestra vida.
+
+\n\nDespués del silencio y la humillación de la muerte y el sepulcro, danos, Señor, encontrarnos en esa otra realidad que tú nos has hecho descubrir con tu resurrección.
+</string>
+    <string name="estaciones_viacrucis_oracion_final">
+    “Te suplico, Señor, que me concedas, por intercesión de tu Madre, la Virgen, que cada vez que medite tu Pasión, quede grabado en mí con marca de actualidad lo que Tú has hecho y sufrido por mí y tus constantes beneficios y gracias que recibo al contemplarte.
+
+\n\nHaz, Señor, que, durante toda mi vida, tenga un agradecimiento inmenso del amor de tu Pasión.
+\n\nAyúdame en mis deseos, Virgen Santísima de los Dolores, ya que eres mi Madre y te necesito”.
+
+    </string>
+    <string name="title_activity_actividad_ponente">Actividad_ponente</string>
+    <string name="guia_eucaristica">
+       Vive la Eucaristía para que Él permanezca en ti
+\n\nRitos iniciales:\n
+\n\nComenzamos la Celebración de la Eucaristía, puesto de pie, únete al canto, para expresar de este modo tu disponibilidad y necesidad de encontrarte con Dios.
+\n\nCanto
+\n\nEl celebrante, en nombre de toda la asamblea, saluda el Altar y el Crucifijo para significar nuestro cariño y agradecimiento a Jesucristo por su entrega sin límites; además inciensa el Altar y el Crucifijo, al tiempo que pide que, como el incienso, también se eleva hasta Dios las intenciones que traemos en nuestro corazón.
+\n\nPonte en la presencia de Dios trazando sobre tu cuerpo la Señal de la Cruz.
+\n\nActo Penitencial:\n Siempre que nos encontramos con Dios, estamos en presencia de lo sagrado. Por eso es muy importante purificarte de toda maldad: en silencio reconoce que has fallado, y confiando en el amor misericordioso de Dios, pide perdón.
+\nY rezamos:\n Yo confieso…
+\nSeñor, ten piedad…
+\nGloria…
+\n\nOremos:\n En silencio presenta a Dios tu intención principal en esta misa, el motivo por el que ofreces la Eucaristía. Entonces, el obispo o sacerdote, colecta, recoge estas intenciones y se las presenta a Dios.
+\n\nLiturgia de la Palabra: \nDios te habla a través de su Palabra escrita en la Biblia, escúchala atentamente y conserva en tu corazón lo que Dios te dijo directamente a ti.
+\n\nHomilía:\n El que preside la celebración explica y comenta la Palabra proclamada para ayudarte a interiorizar el mensaje de Dios y a ponerlo en práctica.
+\n\nProfesión de Fe:\n Renueva tu fe, la fe en Dios que es Padre, Hijo y Espíritu Santo; esa es la que proclama la Iglesia Católica.
+\n\nPreces: Como pueblo de Dios rezamos por nosotros y por las necesidades del mundo entero.
+\n\nPresentación de los dones: Presentamos el pan y el vino, que representan lo que hemos recibido de Dios y con estos le ofreces a Dios todo aquello que has hecho con mayor entrega, generosidad y sacrificio.
+\n\nPrefacio:\n Cuando el sacerdote dice:
+\n\nSac/ El Señor esté con ustedes. Significa que el Señor Jesús está presente, está aquí, que también esté en tu corazón.
+\n\nSac/ Levantemos el corazón. A partir de este momento, se te invita a que no se piense en otra cosa más que en Dios. Todo tu ser debe estar inmerso en la oración.
+\n\nSac/ Demos gracias al Señor, nuestro Dios. Es el momento para que comiences a dar Gracias a Dios.
+\n\nJunto a toda la Iglesia, únete a la Acción de Gracias por las maravillas que Dios ha realizado en favor de todos sus hijos. Además, agradece por lo que tú, concretamente has recibido de Dios en estos días. Finaliza este momento de gratitud uniéndote al coro de los ángeles proclamando su grandeza.
+\n\nConsagración:\n Puesto de rodillas y en silencio, únete a la súplica a Dios Padre para que, por la Acción del Espíritu Santo, el pan y el vino se transformen en el Cuerpo y Sangre de Cristo.
+\n\nEn el momento en que el Cuerpo de Cristo es elevado, míralo con confianza y adóralo. Haz lo mismo cuando es elevado el Cáliz con la Sangre de Cristo.
+\n\nPadre Nuestro:\n Terminada la oración que Jesús nos enseñó, continúa suplicando a Dios que nos libre de todo mal. Pídele también que te libre de ese mal, que quizás tú o alguien a tu alrededor puedan estar sufriendo.
+\n\nEl rito de la paz: Continúa en profundo diálogo con Dios, pídele la paz que solo Él puede darte.
+\n\nLos fieles imploran la paz y la unidad por la Iglesia y toda la humanidad, y se expresan su amor mutuo antes de participar en el Pan único.
+\n\nComunión: \nJesucristo se da como alimento para la vida eterna, si estás preparado, acércate y aliméntate del único que puede saciar tu vida. Si aún no puedes comulgar, háblale, Él te ama y quiere acercarse aún más a ti.
+\n\nBendición Final:\n Inclina tu cabeza para que recibas esa gracia especial que Dios quiere darte para que salgas a comunicar y a vivir el fruto de lo que has celebrado.
+\n\n\n
+    </string>
+    <string name="lecturas_eucaristia_viernes">
+   Lecturas de la Eucaristía
+ \n\n   Viernes 2 de agosto
+\n\n    Primera lectura
+\n\n    Lectura del libro del Levítico (Lv 23,1.4-11.15-16.27.34b-37)
+\n\n    El Señor habló a Moisés:
+\n    -Estas son las festividades del Señor, las asambleas litúrgicas que convocaréis a su debido tiempo.
+\n    El día catorce del primer mes, al atardecer, es la Pascua del Señor. El día quince del mismo mes, es la fiesta de los panes ázimos dedicada al Señor. Comeréis panes ázimos durante siete días.
+\n\n    El primer día os reuniréis en asamblea litúrgica, y no haréis trabajo alguno. Los siete días ofreceréis oblaciones al Señor. Al séptimo os volveréis a reunir en asamblea litúrgica, y no haréis trabajo alguno.
+\n\n    El Señor habló a Moisés:
+\n    -Di a los israelitas:
+\n    Cuando entréis en la tierra que yo os voy a dar, y seguéis la mies, la primera gavilla se la llevaréis al sacerdote. Este la agitará ritualmente en presencia del Señor, para que os sea aceptada; la agitará el sacerdote el día siguiente al sábado. Pasadas siete semanas completas a contar desde el día siguiente al sábado –día en que lleváis la gavilla para la agitación ritual-, hasta el día siguiente al séptimo sábado, es decir, a los cincuenta días, haréis una nueva ofrenda al Señor.
+\n\n    El día diez del séptimo mes es el Día de la expiación. Os reuniréis en asamblea litúrgica, haréis penitencia y ofreceréis una oblación al Señor. El día quince del séptimo mes comienza la Fiesta de las Tiendas dedicada al Señor; y dura siete días. El día primero os reuniréis en asamblea litúrgica. No haréis trabajo alguno. Los siete días ofreceréis oblaciones al Señor.
+\n    Al octavo volveréis a reuniros en asamblea litúrgica y a ofrecer una oblación al Señor. Es día de reunión religiosa solemne. No haréis trabajo alguno.
+\n    Estas son las festividades del Señor, en las que os reuniréis en asamblea litúrgica, y ofreceréis al Señor oblaciones, holocaustos y ofrendas, sacrificios de comunión y libaciones, según corresponda a cada día. Palabra de Dios
+\n\n    Salmo responsorial
+\n    (Sal 80,3-4.5-6ab.10-11ab)
+\n    Ant.: Aclamad a Dios, nuestra fuerza.
+
+\n\n    Acompañad, tocad los panderos,
+\n    las cítaras templadas y las arpas
+\n    tocad la trompeta por la luna nueva,
+\n    por la luna llena, que es nuestra fiesta. R/
+\n\n
+    Porque es una ley en Israel,
+\n    un precepto del Dios de Jacob,
+\n    una norma establecida para José,
+\n    al salir de la tierra de Egipto. R/
+
+\n    “No tendrás un Dios extraño,
+\n    no adorarás un dios extranjero,
+\n    yo soy el Señor, Dios tuyo,
+\n    que te saqué del país de Egipto.” R/
+\n\n
+    Evangelio
+\n    Lectura del santo Evangelio según san Mateo. (Mt 13,54-58)
+\n    En aquel tiempo, fue Jesús a su ciudad y se puso a enseñar en la sinagoga. La gente decía admirada:
+\n    - ¿De dónde saca esa sabiduría y esos milagros? ¿No es el hijo del carpintero? ¿No es su madre María y sus hermanos Santiago, José, Simón y Judas? ¿No viven aquí todas sus hermanas? Entonces, ¿de dónde saca todo eso? Y desconfiaban de él.
+\n    Jesús les dijo:
+\n    -Solo en su tierra y en su casa desprecian a un profeta.
+\n    Y no hizo allí muchos milagros, porque les faltaba fe. Palabra del Señor\n\n\n
+</string>
+    <string name="lecturas_eucaristia_sabado">
+    Lecturas de la Eucaristía
+\n\n    Misa de Envío
+\n\n
+    Primera lectura
+\n    Lectura del libro del Eclesiastés (Qo 1,2;2,21-23)
+\n\n    Vaciedad sin sentido dice el Predicador, vaciedad sin sentido; todo es vaciedad.
+        Hay quien trabaja con destreza, con habilidad y acierto, y tiene que legarle su porción al que no la ha trabajado.
+        También esto es vaciedad y gran desgracia. ¿Qué saca el hombre de todo su trabajo y de los afanes con que trabaja bajo el sol?
+        De día dolores, penas y fatigas; de noche no descansa el corazón. También esto es vaciedad. Palabra de Dios
+ \n
+\n    Salmo responsorial
+\n    (Sal 89,2.3-4.5-6.12-13)
+\n\n    Ant.: Señor, tú has sido nuestro refugio de generación en generación.
+\n    Antes que naciesen los montes,\n o fuera engendrado el orbe de la tierra,
+\n    desde siempre y por siempre
+\n    tú eres Dios. R/
+\n    Tú reduces el hombre a polvo, diciendo:
+\n    “Retornad, hijos de Adán.”
+\n    Mil años en tu presencia son un ayer, que pasó,
+\n    una vela nocturna. R/
+\n    Las siembras año por año,
+\n    como hierba que se renueva:
+\n    que florece y se renueva por la mañana,
+\n    y por la tarde la siegan y se seca. R/
+\n    Enséñanos a calcular nuestros años,
+\n    para que adquiramos un corazón sensato.
+\n    Vuélvete, Señor, ¿hasta cuándo?
+\n    Ten compasión de tus siervos. R/
+\n\n
+    Segunda lectura
+\n    Lectura de la carta del apóstol san Pablo a los Colosenses. (Col 3,1-5.9-11)
+\n\n    Hermanos:
+\n    Ya que habéis resucitado con Cristo, buscad los bienes de allá arriba, donde está Cristo, sentado a la derecha de Dios; aspirad a los bienes de arriba, no a los de la tierra. Porque habéis muerto; y vuestra vida está con Cristo escondida en Dios. Cuando aparezca Cristo, vida nuestra, entonces también vosotros apareceréis, juntamente con él, en gloria. Dad muerte a todo lo terreno que hay en vosotros: la fornicación, la impureza, la pasión, la codicia, y la avaricia, que es una idolatría. No segáis engañándoos unos a otros. Despojaos de la vieja condición humana, con sus obras, y revestíos de la nueva condición, que se va renovando como imagen de su creador, hasta llegar a conocerlo. En este orden nuevo no hay distinción entre judíos y gentiles, circuncisos e incircuncisos, bárbaros y escitas, esclavos y libres; porque Cristo es la síntesis de todo y está en todos. Palabra de Dios
+\n\n    Evangelio
+\n    Lectura del santo Evangelio según san Lucas (Lc 12,13-21)
+\n\n    En aquel tiempo, dijo uno del público a Jesús:
+\n    -Maestro, dile a mi hermano que reparta conmigo la herencia.
+\n    Él le contestó:
+\n    -Hombres, ¿quién me ha nombrado juez o árbitro entre vosotros?
+\n    Y dijo a la gente:
+\n    -Mirad: guardaos de toda clase de codicia. Pues, aunque uno ande sobrado, su vida no depende de sus bienes.
+\n    Y les propuso una parábola:
+\n    -Un hombre rico tuvo una gran cosecha. Y empezó a echar cálculos: ¿Qué haré? No tengo donde almacenar la cosecha.
+\n    Y se dijo: Haré lo siguiente: derribaré los graneros y construiré otros más grandes, y almacenaré allí todo el grano y el resto de mi cosecha. Y entonces me diré a mí mismo: “Hombre, tienes bienes acumulados para muchos años: túmbate, come, bebe y date buena vida”.
+\n    Pero Dios le dijo: “Necio, esta noche te van a exigir la vida. Lo que has acumulado, ¿de quién será?”
+\n    Así será el que amasa riquezas para sí y no es rico ante Dios. Palabra del Señor\n\n\n
+</string>
+    <string name="canto">Cantoral JNJ Santiago de Cuba 2019</string>
+    <string name="examen_consciencia_text">
+     Al fin de la jornada es el tiempo propicio para dedicar unos minutos  a tomar conciencia de la presencia de Dios, ante quien siempre estoy, y mirar mi vida “envuelta en ese AMOR de Dios”… mirar mi día desde la fe confiada en Dios, mi Padre, que siempre me acompaña y vela por mí.\n\n
+    Lee tu día “rastreando”  la acción de Dios en él; “descubriendo” la presencia cercana, los pasos de Dios en mi vida hoy.\n\n
+Es importante situarme en serenidad, procurar silenciar todo mí ser y tomar conciencia de que estoy ante Alguien que me acompaña y con el que voy a comunicarme.\n\n
+El contenido de la oración en esta noche es MI VIDA CONCRETA HOY para: descubrir en ella la presencia activa y amorosa de Dios… descubrirme a mí como sujeto activo y responsable de mi vida… y descubrir situaciones, actitudes, acciones… en que sin quererlo y a pesar mío no he respondido al plan de Dios sobre mí… a su “sueño” para mí.\n\n
+	Pido luz, ser lúcido, intentado vivir en verdad este momento. Me hago consciente que el Espíritu, que es Luz, actúa continuamente en mí para hacerme apto para una vida con más sentido. \n\n
+	Procura vivir este encuentro de oración en la noche en compañía de María nuestra Madre…
+
+    </string>
+
+    <string name="examen_dios">
+       ¿Te acuerdas de Él sólo en los momentos difíciles?
+\n\n¿Tienes confianza en Él?
+\n\n¿Hablas con Él de tus cosas?
+\n\n¿Participas en la Misa del domingo?
+\n\n¿Te preocupas conocer la Palabra de Dios?
+\n\n¿Es el centro y el motor de tu vida?
+\n\n¿Le hablas y lo consideras como un Padre bueno que te ayuda?
+
+    </string>
+
+    <string name="examen_familia">
+       ¿Te has puesto en su lugar para comprenderlos?
+\n\n¿Colaboras en tu familia para que haya paz, amor y buenas relaciones?
+\n\n¿Eres obediente a tus padres y respetas a los mayores?
+\n\n¿Les exiges a tus padres más de lo que pueden darte (dinero, ropa, caprichos)?
+\n\n¿Cuándo intentan hablar contigo pasas de ellos?
+\n\n¿Odias, envidias y tienes celos de tus hermanos?
+
+    </string>
+    <string name="examen_amigos">
+¿Te aprovechas de ellos para tus conveniencias?
+\n\n¿Los criticas cuando otros los critican?
+\n\n¿Los defiendes cuando otros los acusan de falsedades?
+\n\n¿Los tratas como te gustaría que te trataran a ti cuando cometen un fallo?
+\n\n¿Los envidias cuando tienen algo que tú no tienes?
+
+    </string>
+    <string name="examen_trabajo">
+¿Estudias y trabajas porque te obligan o porque quieres ser responsable y formarte?
+\n\n¿Te has puesto en el lugar del profesor o tu jefe para comprenderle y entenderle?
+
+    </string>
+    <string name="examen_diversion">
+¿Qué tiempo ocupas para tus diversiones?
+\n\n¿Antepones la diversión a tu obligación?
+\n\n¿Te sientes separado de alguien por riñas, disputas y peleas?
+\n\n¿Consumes debidas alcohólicas u otras sustancias?
+
+    </string>
+    <string name="examen_tu">
+¿Analizas a menudo cómo eres y cómo vas?
+\n\n¿Te haces compromisos para cambiar?
+\n\n¿Buscas vivir en verdad?
+\n\n¿Has pecado de pensamiento, obra y omisión?
+\n\n¿Te has dejado llevar tras los deseos de tu cuerpo, mal uso de la sexualidad?
+
+    </string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_eucaristia">Eucaristia</string>
+    <string name="title_activity_detalle_patrono">Patrono</string>
+
+    <string name="title_activity_canto">Cantoral JNJ 2019</string>
+    <string name="title_activity_ver_cancion">VerCancion</string>
+    <string name="title_activity_ver_actividad_eucaristia">VerActividadEucaristia</string>
+    <string name="title_activity_examen">Examen de Consciencia</string>
+    <string name="title_activity_catequesis">Catequesis</string>
+
+    <string name="catequesis">“María, discípula y misionera”
+\n\n Oración: Madre y Reina de las Misiones ayúdanos a estar siempre atentos a la palabra de tu Hijo que nos llama a seguirle y nos invita a compartir su misión, a anunciar el Reino de Dios en nuestro mundo, en concreto en nuestra querida Patria. Madre muéstranos los sentimientos del Corazón de tu Hijo y ayúdanos a hacerlos nuestros para que también nosotros, mirando a nuestro mundo, descubramos sus necesidades, descubramos la inmensidad del campo y la escasez de trabajadores y deseemos ponernos manos a la obra.
+\n\n Madre, se tu intercesora ante tu Hijo para que con su gracia y tu ejemplo seamos siempre, como tú, discípulos, apóstoles y hermanos de nuestros prójimos. Amén
+\n\n A la luz de la Palabra de Dios:
+    </string>
+    <string name="catequesis_t1">Isaías 65,17-25 \n\n 1.- ¿Cómo será este cielo nuevo y esta tierra nueva? Rasgos de dicho mundo nuevo (¿coinciden con los que habíamos puesto arriba sobre el mundo?).
+\n\n 2.- Comparar la situación de Israel que nos refleja el texto con la de muchos pueblos del 3º y 4º mundo que nacen ya endeudados, trabajan para otros, viven con sobresaltos…
+</string>
+    <string name="catequesis_t2">\n\nDeuteronomio 15, 4.5-11.
+\n\n1.- ¿A quién Dios quiere que abras el corazón?
+\n\n2.- ¿Dios tiene en cuenta todo el bien que haces?
+</string>
+    <string name="catequesis_t3">\n\nJeremías 34,8-16.
+\n\n 1.- ¿Qué orden nuevo quiere Dios cada 7 años?
+</string>
+    <string name="catequesis_t4">Hechos 2, 44-45. \n\n //TODO FALTA EL VERSICULO </string>
+    <string name="catequesis_t5">Hechos 4, 33.34-35.
+\n\n1.- Escribe los rasgos de las primeras comunidades.
+\n\n2.- ¿Compartes tus bienes con alguien? ¿hay algún ámbito donde suceda esto de entregar el dinero que uno recibe y ponerlo a disposición de los demás?
+\n\n3.- ¿Por qué en nuestras familias, nuestros padres, comparten todos sus bienes gratuita y generosamente con nosotros?
+\n\n4.- ¿Qué hace posible esta unidad entre los cristianos? ¿Por qué los primeros cristianos son capaces de poner todos los bienes materiales y espirituales en un mismo proyecto común?
+\n\n5.- ¿Es posible vivir como hermanos, construyendo el mundo todos juntos?
+</string>
+    <string name="catequesis_t6">Para profundizar:
+
+\n\n1.	¿Qué es lo que más me ha hecho reflexionar de esta catequesis?
+\n\n2.	¿Qué supone para ti el ejemplo de la Virgen, como Madre y como modelo?
+\n\n3.	¿Me siento llamado a construir la civilización del amor?
+\n\n4.	¿Cómo puedo crecer en caridad en mi vida?
+\n\n5.	¿Qué puedo hacer para que crezca en mi vida la verdad? Fíjate que el Papa habla de la verdad, no tanto en el sentido de honestidad (importante de por sí), como en el de ir al verdadero ser de las cosas, tener criterios, descubrir la verdad de la realidad.
+\n\n6.	¿Te preocupas por formarte como cristiano, en todos los aspectos de la vida?
+\n\n7.	Si este mundo nuevo está en tus manos… ¿qué vas a hacer a partir de hoy?
+</string>
+
+    <string name="lecturas_jueves_noche">
+        En el nombre del Padre y del Hijo y del Espíritu Santo. \n\n Amén. \n\n
+Paso revista en silencio a este día que se acaba. Recuerdo lo que me ha ocurrido, las personas con las que me he encontrado, todo lo que he hecho y pensado, todo lo que he dicho. \n\n
+Padre bueno, te doy gracias por este día, por todo lo bueno que me ha sucedido. Perdóname los pecados que he cometido contra ti, contra los demás o contra mí, y deja que mi corazón descanse en paz junto a ti. \n Amén.\n\n
+“Tú me buscas”\n
+Me buscaste tú, Señor,\n
+Como si te fuera la vida en buscarme,\n
+Y huyo de ti,\n
+como si me fuera la muerte en hallarte\n
+siendo al revés,\n
+que buscándome tú hallaste la muerte,\n
+y hallándote yo, hallo la vida.\n\n
+San Juan de Ávila\n
+“Que no es otra cosa oración mental, a mi parecer, sino tratar de amistad, estando muchas veces tratando a solas con quien sabemos nos ama.” \nSanta Teresa de Jesús\n
+\n“Tú solo, Señor, me haces vivir tranquilo”
+\n\nEscúchame cuando te invoco, Dios de mi justicia; tú que en el aprieto me diste anchura, ten piedad de mí y escucha mi oración. (…) Hay muchos que dicen: ¿Quién nos hará ver la dicha, si la luz de tu rostro ha huido de nosotros?
+\n\nPero tú, Señor, has puesto en mi corazón más alegría que si abundara en su trigo y en su vino. En paz me acuesto y enseguida me duermo, porque tú solo, Señor, me haces vivir tranquilo.
+\n\nSalmo 4
+\n“Ante de que te busquemos”
+\nSeñor,
+\nAntes incluso de que te busquemos,
+\nTú estás ahí junto a nosotros.
+\nAntes incluso de que conozcamos tu nombre,
+\nTú eres nuestro Dios.
+\nAbre nuestro corazón a este misterio que hemos
+\nRecibido y compartido:
+\nTú nos has amado primero
+\nY podemos estar felices contigo.
+\nY podemos acercarnos a ti,
+\nNo porque nosotros seamos buenos,
+\nSino porque tú eres Dios.
+\nAmén.
+
+\n\nEl Señor todopoderoso nos conceda una noche tranquila y una muerte santa. \nAmén.
+\n\nDios te salve, María, plegaria ante el juez verdadero.
+
+    </string>
+    <string name="lecturas_viernes_morning">
+        Tú escuchas mi llamada\n\n
+En el nombre del Padre y del Hijo y del Espíritu Santo.\n Amén.\n\n
+“El deseo de contemplar a Dios”\n
+Y ahora, Señor, mi Dios,\n
+Enseña a mi corazón y cómo buscarte,\n
+Dónde y cómo encontrarte.\n
+Señor, si no estás aquí,\n
+¿dónde te buscaré, estando ausente?\n
+Si estás por doquier,\n
+¿cómo no descubro tu presencia?\n
+Cierto es que habitas en una claridad inaccesible.\n
+Pero, ¿dónde se halla esa inaccesible claridad?,\n
+¿cómo me acercaré a ella?\n
+¿Quién me conducirá hasta ahí para verte en ella?\n
+Y luego, ¿con qué señales, bajo qué rasgo te buscaré?\n
+Nunca jamás te vi, Señor, Dios mío;\n
+No conozco tu rostro.\n
+Enséñame a buscarte y muéstrate a quien te busca;\n
+Porque no puedo ir en tu busca\n
+A menos que tú me enseñes,\n
+Y no puedo encontrarte\n
+Si tú no te manifiestas.\n
+Deseando te buscaré, buscando te desearé,\n
+Amando te hallaré y hallándote te amaré.\n\n
+Del libro Proslogion de San Anselmo, obispo\n
+“Si finalmente tuviera que deciros qué es lo esencial para nosotros que queremos vivir en una ciudad y que queremos creer en un cristianismo que tenga verdaderamente impacto en la vida moderna, entonces os diría que nuestra actitud fundamental debe ser la de vencer el miedo. Porque, ¿por qué no rezo? Es porque tengo miedo a perder el tiempo, porque tengo miedo a la sequía espiritual.” \n\nCarlo Carretto\n\n
+“El Espíritu intercede por nosotros”\n
+\nDel mismo modo, el Espíritu acude en ayude de nuestra debilidad, pues nosotros no sabemos pedir como conviene; pero el Espíritu mismo intercede por nosotros con gemidos inefables. Y el que escruta los corazones sabe cuál es el deseo del Espíritu, y que su intercesión por los santos es según Dios. Por otra parte, sabemos que a los que aman a Dios todo les sirve para el bien.\n
+\nCarta de Sn Pablo a los romanos 8, 26-28
+\n\n
+Silencio\n
+Mi oración de petición para el día…\n
+Padre nuestro que estás en el cielo…\n
+
+Señor, auméntanos la fe\n
+Los apóstoles, después de unas palabras de Jesús sobre el perdón de los pecados. \nLucas 17, 5
+\n\n“Como tú quieras”
+\nSeñor, como tú lo quieras, así ocurrirá.
+\nY como tú lo quieras, así también lo desearé yo.
+\nAyúdame a entender de verdad tu voluntad.
+\nSeñor, lo que tú quieras, eso es lo que escogeré.
+\nY lo que tú quieras, ésa es mi ganancia.
+\nMe basta y me es suficiente saber que soy todo tuyo.
+\nSeñor, porque tú lo quieres, por eso mismo eso es bueno.
+\nY porque tú lo quieres, por eso tengo ánimos.
+\nMi corazón descansa en tus manos.
+\nSeñor, cuando tú lo quieras, ese será el momento adecuado.
+\nY cuando tú lo quieras, yo estoy dispuesto.
+\nHoy y en toda la eternidad.
+\nAmén.
+\n\nRupert Mayer
+\nEl Señor nos bendiga, nos guarde de todo mal y nos lleve a la vida eterna.\n Amén.\n\n
+
+    </string>
+    <string name="lecturas_viernes_noche">
+        En el nombre del Padre y del Hijo y del Espíritu Santo. \nAmén.\n\n
+Paso revista en silencio a este día que se acaba. Recuerdo lo que me ha ocurrido, las personas con las que me he encontrado, todo lo que he hecho y pensado, todo lo que he dicho.\n\n
+Padre bueno, te doy gracias por este día, por todo lo bueno que me ha sucedido. Perdóname los pecados que he cometido contra ti, contra los demás o contra mí, y deja que mi corazón descanse en paz junto a ti. \n Amén.\n\n
+“Tú no te ausentas”\n
+\nSeñor, Dios mío,
+\nNo eres tú extraño a quien no se extraña contigo,
+\n¿cómo dicen que te ausentas tú?
+\nSan Juan de la Cruz
+\n“El deseo de orar es ya una oración.” Georges Bernanos
+\n“Tú estás cerca de mí”
+\nEl Señor es mi pastor, nada me falta:
+\nEn verdes praderas me hace recostar;
+\nMe conduce hacia fuentes tranquilas
+\nY repara mis fuerzas;
+\nMe guía por el sendero justo,
+\nPor el honor de su nombre.
+\nAunque camine por cañadas oscuras,
+\nNada temo porque tú vas conmigo:
+\nTu cara y tu cayado me sosiegan.
+\nPreparas una mesa ante mí,
+\nEnfrente de mis enemigos;
+\nMe unges la cabeza con perfume,
+\nY mi copa rebosa.
+\nTu bondad y tu misericordia me acompañan
+\nTodos los días de mi vida,
+\nY habitaré en la casa del Señor
+\nPor años sin término. \nAmén.
+\n\nSalmo 22 (hebreo 23)\n
+“Tú has puesto fin a esta jornada”
+\nSeñor, Dios mío, te doy gracias
+\nPor haber llevado a término este día;
+\nTe doy gracias por permitir que cuerpo y alma descansen.
+\nTu mano me ha cubierto para guardarme y protegerme.
+\nPerdona mi falta de fe y toda mala acción en este día,
+\nY ayúdame a perdonar a cuantos me han hecho daño.
+\nDéjame dormir en paz bajo tu protección,
+\nY presérvame de las tentaciones de la noche.
+\nTe confío a mis seres queridos,
+\nY a todos los que habitan en esta casa;
+\nTe confío mi cuerpo y mi alma.
+\nDios mío, alabado sea tu nombre.
+\nAmén.
+\n\nDietrich Bonhoeffer
+\n
+El Señor todopoderoso nos conceda una noche tranquila y una muerte santa. \nAmén.\n\n
+Dios te salve, María, Madre y Maestra de vírgenes.\n
+
+    </string>
+    <string name="lecturas_sabado_morning">
+        Tú sabes lo que me anima\n
+En el nombre del Padre y del Hijo y del Espíritu Santo. \nAmén\n\n
+“Que mi alegría vuele hacia el cielo”\n
+Señor, que mi alegría vuele hacia el cielo\n
+Como los pájaros.\n
+La noche se ha disipado,\n
+Y me alegro de ver la luz.\n
+Señor, esta mañana, estoy contento.\n
+Los pájaros y los ángeles cantan y yo también\n
+Me siento alegre.\n
+El universo y nuestros corazones están abiertos a tu gracia.\n
+Siento mi cuerpo y te doy gracias.\n
+Señor, mi alegría está en la creación,\n
+Y en ti que estás detrás de ella,\n
+Y al lado y delante y encima\n
+Y en nosotros.\n
+Los salmos cantan tu amor,\n
+Los profetas lo anuncian\n
+Y nosotros nos beneficiamos de él.\n
+Que mi alegría vuele hacia el cielo como los pájaros.\n
+Un nuevo día brilla y centellea\n
+Y muestra el júbilo de tu amor.\n
+Tú eres el autor de cada día.\n
+Y cada día, tú cuentas los bucles\n
+De mi cabellera.\n
+Aleluya, Señor.\n
+\nAmén.\n\n
+Poema africano\n
+“Vuelvo sobre las distracciones que tanto me molestan. Para las que van por aquí, en la meditación, es bueno un libro presto para recogerse. Aprovechábame a mí también ver campo, a agua, o flores. En estas cosas hallaba yo memoria del Creador, digo que me despertaban y recogían y servían de libro.” \nSanta Teresa de Jesús\n\n
+¡No te avergüences del testimonio que tienes que dar!\n
+\nPor esta razón te recuerdo que reavives el don de Dios que hay en ti por la imposición de mis manos, pues Dios no nos ha dado un espíritu de cobardía, sino de fortaleza, de amor y de templanza. Así pues, no te avergüences del testimonio de Nuestro Señor.
+\n\n2da Carta de San Pablo a Timoteo 1, 6-7
+\nSilencio
+\nMi oración de petición para el día…
+\nPadre nuestro que estás en el cielo…
+\n“Pide un corazón vigilante”
+\nDame, Señor, mi Dios,
+\nUn corazón vigilante,
+\nQue ningún pensamiento curioso me arrastre lejos de ti;
+\nUn corazón noble,
+\nAl que ninguna indigna afección desvíe;
+\nUn corazón firme,
+\nAl que ninguna adversidad destroce;
+\nUn corazón libre,
+\nAl que ninguna pasión violenta subyugue.
+\nConcédeme, Señor, Dios mío,
+\nuna inteligencia que te conozca,
+\nuna diligencia que te busque,
+\nuna sabiduría que te encuentre,
+\nuna vida que te plazca,
+\nuna perseverancia que te espere con confianza
+\ny una confianza que al fin te posea.
+\nAmén.
+\n\nInspirado en Santo Tomás de Aquino
+\nEl Señor nos bendiga, nos guarde de todo mal y nos lleve a la vida eterna. Amén.
+
+    </string>
+    <string name="lecturas_sabado_noche">
+
+        En el nombre del Padre y del Hijo y del Espíritu Santo. \n Amén.\n\n
+Paso revista en silencio a este día que se acaba. Recuerdo lo que me ha ocurrido, las personas con las que me he encontrado, todo lo que he hecho y pensado, todo lo que he dicho.
+\n\nPadre bueno, te doy gracias por este día, por todo lo bueno que me ha sucedido. Perdóname los pecados que he cometido contra ti, contra los demás o contra mí, y deja que mi corazón descanse en paz junto a ti. Amén.
+\n\n¡Señor, sálvanos, que perecemos!
+\nLos discípulos en la tempestad
+\n\nMateo 8, 25
+\n“Tú sabes lo que mejor me conviene”
+\nDios mío, solo tú sabes lo que mejor me conviene.
+\nCreo que lo sabes perfectamente.
+\nCreo que me amas mejor
+\nQue yo a mí mismo,
+\nQue eres muy sabio en tu providencia,
+\nY todopoderoso en tu protección.
+\nTe doy gracias de todo corazón por haberme retirado
+\nEl gobierno de mí mismo, tarea muy pesada para mí,
+\nY por haber asumido tú mismo la carga.
+\nNo puedo pedir nada mejor
+\nQue estar a tu cargo, y no al mío.
+\nQuiero seguirte, Dios mío, con la ayuda de tu gracia,
+\nPor todas partes por donde tú vayas y a dónde me lleves.
+\nEsperaré que me lleves,
+\nY cuando vengas a buscarme,
+\nTe seguiré dócilmente sin temor.
+\nTe prometo no mostrarme impaciente, si a veces
+\nTú me dejas perplejo y sin luz;
+\nNi quejarme nunca ni irritarme si estoy
+\nAnsioso o me siento desgraciado.
+\nAmén
+\n\nBeato John Henry Newman
+\n“Jesús es llamado Oriente porque es la fuente de la luz e iluminador de todas las cosas, y porque nos hace nacer para la vida eterna.” San Isidoro
+\n\n“Señor, tú eres el Altísimo”
+\nEs bueno dar gracias al Señor
+\nY tocar para tu nombre, oh Altísimo;
+\nProclamar por la mañana tu misericordia
+\nY de noche tu fidelidad,
+\nCon arpas de diez cuerdas y laúdes,
+\nSobre arpegios de cítaras.
+\nTus acciones, Señor, son mi alegría,
+\nY mi júbilo, las obras de tus manos.
+\n¡Qué magníficas son tus obras, Señor,
+\nQué profundos tus designios!
+\nEl ignorante no los entiende
+\nNi el necio se da cuenta. (…)
+\nTú, en cambio, Señor, eres excelso por los siglos. (…)
+\nGloria al Padre, y al Hijo, y al Espíritu Santo.
+\nComo era en el principio, ahora y siempre,
+\nPor los siglos de los siglos. Amén.
+\n\nSalmo 91 (hebreo 92)
+\n“Le tienes”
+\nPues busco, debo encontrar.
+\nPues llamo, débenme abrir.
+\nPues pido, me deben dar.
+\nPues amo, débenme amar.
+\nAquel que me hizo vivir.
+\n¿Calla? Un día me hablará.
+\n¿Me pone a prueba? Soy fiel.
+\n¿Pasa? No lejos irá;
+\nPues tiene alas mi alma, y va
+\nVolando detrás de Él.
+\nEs poderoso, más no
+\nPodrá mi amor esquivar.
+\nInvisible se volvió,
+\nMas ojos de lince yo
+\nTengo y le habré de mirar.
+\nAlma, sigue hasta el final
+\nEn pos del Bien de los bienes
+\nY consuélate en tu mal
+\n\nPensando como Pascal:
+\n¿Le buscas? ¡Es que le tienes!
+\nAmado Nervo
+
+\n\nEl Señor todopoderoso nos conceda una noche tranquila y una muerte santa. \nAmén.
+\n\nDios te salve, María, aurora que nos anuncia el Sol.
+
+    </string>
+    <string name="lecturas_doming_morning">
+
+        Dios se levanta: Resurrección\n
+En el nombre del Padre y del Hijo y del Espíritu Santo. \nAmén.\n\n
+“Alabado seas Tú”\n
+Alabado seas Tú, Señor,
+\nQue ha sido misericordioso conmigo.
+\nAlabado seas Tú, Señor,
+\nQue me has glorificado por el anonadamiento de tu Pasión.
+\nAlabado seas Tú, Señor,
+\nQue en tu bondad te has hecho mi guía.
+\nAlabado seas Tú, Señor,
+\nQue me has colmado de tu sabiduría.
+\nAlabado seas Tú, Señor,
+\nPorque me has protegido con tu poder.
+\nAlabado seas Tú, Señor,
+\nPorque me has santificado con tu Gracia.
+\nAlabado seas Tú, Señor,
+\nPorque te has revelado a nosotros en tu Luz.
+\nAlabado seas Tú, Señor,
+\nPorque, en medio de tu amor, nos has puesto por encima de todas las criaturas.
+\nSanta Matilde de Magdeburgo
+\n\n
+“Cuando Santa Matilde habla del poder de Dios que la protege, quiere decir que el poder de Dios es superior a todas las demás fuerzas y poderes imaginables. Dios no es un poder entre los demás. Es el principio y el origen de todo, que confiere a toda fuerza y poder. ¡Comprender esto, es ya muy importante!”
+\n“He visto al Señor”
+\nEstaba María fuera, junto al sepulcro, llorando… Se vuelve y ve a Jesús, de pie, pero no sabía que era Jesús… Jesús le dice: “mujer, porque lloras, a quien buscas”. Ella, tomando por el hortelano, le contesta: “Señor, si tú te lo has llevado, dime donde lo has puesto y yo lo recogeré”. Jesús le dice: ¡” María”! Ella se vuelve y le dice: ¡” Rabboni” !, que significa: ¡” Maestro”! Jesús le dice: “no me retengas, que todavía no he subido al Padre. Pero, anda, ve a mis hermanos y diles: subo al Padre mío y Padre vuestro, al Dios vuestro y Dios suyo”. María la Magdalena fue y anunció a los discípulos: “he visto al Señor y ha dicho esto”.
+\nJn. 20,11.14b-18
+\n
+\nSilencio.
+\nMi oración de petición del día…
+\nPadre nuestro que estas en el cielo…
+\n
+\nSalmo 117
+\nEscuchad: hay cantos de victoria
+\nEn las tiendas de los justos:
+\n“la diestra del Señor es poderosa, la diestra del Señor es excelsa, la diestra del Señor es poderosa”.
+\nNo he de morir, viviré
+\nPara contar las hazañas del Señor.
+\nMe castigó, me castigó el Señor, pero no me entregó a la muerte.
+\nAbridme las puertas del triunfo,
+\nY entraré para dar gracias al Señor.
+\n- Esta es la puerta del Señor:
+\nLos vencedores entrarán por ella.
+\n-	Te doy gracias porque me escuchaste
+\nY mi fuiste mi salvación.
+\nLa piedra que desecharon los arquitectos,
+\nEs ahora la piedra angular
+\nEs el Señor quien lo ha hecho,
+\nEsto ha sido un milagro patente.
+\nEste es el día en que actuó el Señor:
+\nSea nuestra alegría y nuestro gozo,
+\nSeñor, danos la salvación;
+\nSeñor, danos prosperidad.
+\n-	Bendito el que viene en nombre del Señor,
+\nOs bendecimos desde la casa del Señor;
+\nEl Señor es Dios él nos ilumina.
+\nOrdenad una procesión con ramos
+\nHasta los ángulos del altar.
+\nTu eres mi Dios, te doy gracias;
+\nDios mío yo te ensalzo.
+\nDad gracias al Señor porque es bueno,
+\nPorque es eterna su misericordia.
+\nGloria al Padre y al Hijo y al Espíritu Santo,
+\nComo era en el principio ahora y siempre
+\nPor los siglos de los siglos. Amén.
+\n
+\nEl Señor nos bendiga, nos guarde de todo mal,
+\nY nos lleve a la vida eterna. \n Amén.
+
+    </string>
+
+    <string name="title_activity_fullscreen_imagen_historia">Fullscreen Imagen Galeria</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_recordatorios">Recordatorios</string>
+    <string name="title_activity_oracion__viacrucis">Oracion Viacrucis</string>
+    <string name="title_activity_oración_jnj">Oración de la JNJ</string>
+    <string name="oracionjnj">
+      Señor Jesús, Maestro, Amigo y Compañero de camino; los jóvenes de Cuba ponemos en tus manos nuestra Jornada Nacional de la Juventud.
+	\n\nConcédenos tu luz y tu fuerza para que la realicemos con entrega, espíritu de servicio y alegre entusiasmo.
+\n\nConcédenos, también, que esta celebración sea una oportunidad para que todos los jóvenes crezcamos en Fe, Esperanza y Amor.
+\n\nMueve nuestros corazones al encuentro profundo contigo y que este encuentro nos ayude a conocerte mejor y a seguirte con mayor fidelidad cada día.
+\n\nTe lo pedimos por intercesión de tu Madre y nuestra Madre, nuestra Señora de la Caridad.
+\nAmén
+
+    </string>
+
+</resources>

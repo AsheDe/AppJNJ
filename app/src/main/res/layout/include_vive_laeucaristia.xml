@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cu.bellalogica.jnjcuba2019.VerActividadEucaristia">
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Vive la Eucaristía para que Él permanezca en ti"
+        android:textSize="24sp"
+        android:layout_marginBottom="8dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Ritos iniciales:"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Comenzamos la Celebración de la Eucaristía, puesto de pie, únete al canto, para expresar de este modo tu disponibilidad y necesidad de encontrarte con Dios."
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Canto"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="El celebrante, en nombre de toda la asamblea, saluda el Altar y el Crucifijo para significar nuestro cariño y agradecimiento a Jesucristo por su entrega sin límites; además inciensa el Altar y el Crucifijo, al tiempo que pide que, como el incienso, también se eleva hasta Dios las intenciones que traemos en nuestro corazón.\n\nPonte en la presencia de Dios trazando sobre tu cuerpo la Señal de la Cruz."
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Acto Penitencial:"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Siempre que nos encontramos con Dios, estamos en presencia de lo sagrado. Por eso es muy importante purificarte de toda maldad: en silencio reconoce que has fallado, y confiando en el amor misericordioso de Dios, pide perdón. \nY rezamos:\n Yo confieso…\nSeñor, ten piedad…\nGloria…"
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Oremos:"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="En silencio presenta a Dios tu intención principal en esta misa, el motivo por el que ofreces la Eucaristía. Entonces, el obispo o sacerdote, colecta, recoge estas intenciones y se las presenta a Dios."
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Liturgia de la Palabra:"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Dios te habla a través de su Palabra escrita en la Biblia, escúchala atentamente y conserva en tu corazón lo que Dios te dijo directamente a ti."
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Homilía"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="El que preside la celebración explica y comenta la Palabra proclamada para ayudarte a interiorizar el mensaje de Dios y a ponerlo en práctica."
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Profesión de Fe"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Renueva tu fe, la fe en Dios que es Padre, Hijo y Espíritu Santo; esa es la que proclama la Iglesia Católica."
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Preces:"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Como pueblo de Dios rezamos por nosotros y por las necesidades del mundo entero."
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Presentación de los dones:"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Presentamos el pan y el vino, que representan lo que hemos recibido de Dios y con estos le ofreces a Dios todo aquello que has hecho con mayor entrega, generosidad y sacrificio."
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Prefacio:"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cuando el sacerdote dice:
+\n\nSac/ El Señor esté con ustedes. Significa que el Señor Jesús está presente, está aquí, que también esté en tu corazón.
+\n\nSac/ Levantemos el corazón. A partir de este momento, se te invita a que no se piense en otra cosa más que en Dios. Todo tu ser debe estar inmerso en la oración.
+\n\nSac/ Demos gracias al Señor, nuestro Dios. Es el momento para que comiences a dar Gracias a Dios.
+\n\nJunto a toda la Iglesia, únete a la Acción de Gracias por las maravillas que Dios ha realizado en favor de todos sus hijos. Además, agradece por lo que tú, concretamente has recibido de Dios en estos días. Finaliza este momento de gratitud uniéndote al coro de los ángeles proclamando su grandeza.
+"
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Consagración:"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Puesto de rodillas y en silencio, únete a la súplica a Dios Padre para que, por la Acción del Espíritu Santo, el pan y el vino se transformen en el Cuerpo y Sangre de Cristo. \n\nEn el momento en que el Cuerpo de Cristo es elevado, míralo con confianza y adóralo. Haz lo mismo cuando es elevado el Cáliz con la Sangre de Cristo. "
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Padre Nuestro:"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Terminada la oración que Jesús nos enseñó, continúa suplicando a Dios que nos libre de todo mal. Pídele también que te libre de ese mal, que quizás tú o alguien a tu alrededor puedan estar sufriendo."
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="El rito de la paz:"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Continúa en profundo diálogo con Dios, pídele la paz que solo Él puede darte. Los fieles imploran la paz y la unidad por la Iglesia y toda la humanidad, y se expresan su amor mutuo antes de participar en el Pan único."
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Comunión:"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jesucristo se da como alimento para la vida eterna, si estás preparado, acércate y aliméntate del único que puede saciar tu vida. Si aún no puedes comulgar, háblale, Él te ama y quiere acercarse aún más a ti."
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Bendición Final:"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Inclina tu cabeza para que recibas esa gracia especial que Dios quiere darte para que salgas a comunicar y a vivir el fruto de lo que has celebrado. \n\n\n"
+        android:textSize="22sp"
+        android:layout_marginBottom="8dp"
+        />
+
+
+</LinearLayout>
+</android.support.v4.widget.NestedScrollView>

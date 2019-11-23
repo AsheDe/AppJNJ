@@ -1,0 +1,7 @@
+<resources>
+    <integer name="columnas_apostoles">2</integer>
+    <integer name="columnas_calendario">2</integer>
+    <dimen name="app_bar_height">400dp</dimen>
+    <integer name="columnas_historia">3</integer>
+    <bool name="horizontal">false</bool>
+</resources>

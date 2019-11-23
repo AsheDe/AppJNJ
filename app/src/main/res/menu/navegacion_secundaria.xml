@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/menu_oracion"
+        android:title="Oración de la JNJ"
+        app:showAsAction="withText"
+        />
+
+    <item
+        android:id="@+id/menu_historia"
+        android:title="@string/title_historia"
+        app:showAsAction="withText"
+        />
+    <item
+        android:id="@+id/menu_eucaristia"
+        android:title=  "@string/title_eucaristia"
+        app:showAsAction="withText"
+        />
+    <item
+        android:id="@+id/menu_examen"
+        android:title="@string/title_examen"
+        app:showAsAction="withText"
+        />
+    <item
+        android:id="@+id/menu_catequesis"
+        android:title="@string/title_activity_catequesis"
+        app:showAsAction="withText"
+        />
+    <item
+        android:id="@+id/menu_cantos"
+        android:title="@string/title_cantos"
+        app:showAsAction="withText"
+        />
+    <item
+        android:id="@+id/menu_viacrucis"
+        android:title="Viacrucis"
+        app:showAsAction="withText"
+        />
+    <item
+        android:id="@+id/menu_recordar"
+        android:title="@string/title_recordatorios"
+        app:showAsAction="withText"
+        />
+    <item
+        android:id="@+id/menu_comunicar"
+        android:title="@string/title_comunicar"
+        app:showAsAction="withText"
+        />
+</menu>

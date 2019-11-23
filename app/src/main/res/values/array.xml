@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lecturas">
+        <item>@string/lecturas_jueves_noche</item>
+        <item>@string/lecturas_viernes_morning</item>
+        <item>@string/lecturas_viernes_noche</item>
+        <item>@string/lecturas_sabado_morning</item>
+        <item>@string/lecturas_sabado_noche</item>
+        <item>@string/lecturas_doming_morning</item>
+    </string-array>
+</resources>

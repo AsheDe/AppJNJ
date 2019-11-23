@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Actividad_Evento"
+    tools:showIn="@layout/actividad_ponente">
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_titulo_evento"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="16dp"
+            android:textSize="22sp"
+            android:layout_marginBottom="24dp"
+            android:ellipsize="end"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="8dp"
+            android:text="Nombre evento"
+            />
+
+        <android.support.design.button.MaterialButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="RECORDAR"
+            app:cornerRadius="12dp"
+            app:strokeWidth="1dp"
+            app:strokeColor="@color/colorAccent"
+            app:backgroundTint="@color/colorAccent"
+            android:textColor="@color/colorBlanco"
+
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/txt_titulo_evento"
+
+            android:layout_marginLeft="16dp"
+            android:layout_marginBottom="8dp"
+            android:id="@+id/recordar_evento"
+            android:layout_marginRight="16dp"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/ihora"
+            app:layout_constraintTop_toBottomOf="@+id/recordar_evento"
+            app:layout_constraintLeft_toLeftOf="parent"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="24dp"
+            android:tint="@color/colornegro_100"
+            android:id="@+id/ihora"
+
+            />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_fecha_evento"
+            app:layout_constraintTop_toBottomOf="@+id/recordar_evento"
+            android:text="12:30"
+            android:layout_marginLeft="8dp"
+            app:layout_constraintLeft_toRightOf="@id/ihora"
+            app:layout_constraintRight_toRightOf= "parent"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="16dp"
+            android:textColor="@color/colornegro_700"
+            android:textSize="20sp"
+            android:gravity="left"
+
+            />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/imapa_claro"
+            app:layout_constraintTop_toBottomOf="@+id/txt_fecha_evento"
+            app:layout_constraintLeft_toLeftOf="parent"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="24dp"
+            android:id="@+id/imapa"
+
+            />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_lugar_evento"
+            app:layout_constraintTop_toBottomOf="@+id/txt_fecha_evento"
+            android:text="Palza juvenil Ferreiro"
+            android:layout_marginLeft="8dp"
+            app:layout_constraintLeft_toRightOf="@id/imapa"
+            android:layout_marginTop="16dp"
+            android:textColor="@color/colornegro_700"
+            android:textSize="20sp"
+            android:gravity="left"
+            app:layout_constraintRight_toRightOf="parent"
+            android:layout_marginRight="16dp"
+            />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_desc_evento"
+            app:layout_constraintTop_toBottomOf="@+id/txt_lugar_evento"
+            android:text="aqui una descripcion de evento"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="16dp"
+            app:layout_constraintLeft_toRightOf="@id/imapa"
+            app:layout_constraintRight_toRightOf="parent"
+            android:layout_marginTop="16dp"
+            android:textColor="@color/colornegro_700"
+            android:textSize="18sp"
+            android:layout_marginBottom="32dp"
+            android:paddingBottom="8dp"
+            />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

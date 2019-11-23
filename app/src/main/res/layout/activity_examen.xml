@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".Actividad_Evento"
+
+    >
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/app_bar"
+        android:layout_width="match_parent"
+        android:layout_height= "@dimen/app_bar_height"
+        android:fitsSystemWindows="true"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        android:elevation="4dp"
+
+
+        >
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:id="@+id/toolbar_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fitsSystemWindows="true"
+            app:contentScrim="@color/colorPrimaryDark"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            app:expandedTitleTextAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            >
+
+
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@mipmap/oracion"
+                android:scaleType="fitXY"
+                app:layout_collapseMode="parallax"
+                android:fitsSystemWindows="true"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/screen"
+                android:scaleType="fitXY"
+                app:layout_collapseMode="parallax"
+                android:fitsSystemWindows="true"
+                />
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:title="Examen de conciencia"
+        android:elevation="4dp"
+        android:background="@android:color/transparent"
+        android:id="@+id/toolbar"
+        app:titleTextColor="@color/colorBlanco"
+        android:fitsSystemWindows="false"
+        app:layout_collapseMode="pin"
+        />
+        </android.support.design.widget.CollapsingToolbarLayout>
+    </android.support.design.widget.AppBarLayout>
+
+
+    <android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context="cu.bellalogica.jnjcuba2019.VerActividadEucaristia"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        android:layout_marginBottom="16dp"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginLeft="16dp"
+            >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/text_margin"
+        android:layout_marginTop="@dimen/text_margin"
+        android:layout_marginBottom="@dimen/text_margin"
+        android:id="@+id/texto_examen_consciencia"
+        android:textSize="20sp"
+        android:text="@string/examen_consciencia_text"
+        />
+
+
+           <android.support.design.button.MaterialButton android:layout_width="wrap_content" android:layout_margin="8dp"
+               android:layout_height="wrap_content" android:text="CON DIOS" android:id="@+id/examen_dios"/>
+           <android.support.design.button.MaterialButton android:layout_width="wrap_content" android:layout_margin="8dp"
+               android:layout_height="wrap_content" android:text="Tu familia" android:id="@+id/examen_familia"/>
+           <android.support.design.button.MaterialButton android:layout_width="wrap_content" android:layout_margin="8dp"
+               android:layout_height="wrap_content" android:text="Tus amigos/as" android:id="@+id/examen_amigos"/>
+           <android.support.design.button.MaterialButton android:layout_width="wrap_content" android:layout_margin="8dp"
+               android:layout_height="wrap_content" android:text="Tu trabajo/estudio" android:id="@+id/examen_trabajo"/>
+           <android.support.design.button.MaterialButton android:layout_width="wrap_content" android:layout_margin="8dp"
+               android:layout_height="wrap_content" android:text="Tu diversión/consumo" android:id="@+id/examen_diversion"/>
+           <android.support.design.button.MaterialButton android:layout_width="wrap_content" android:layout_margin="8dp"
+               android:layout_height="wrap_content" android:text="Tú mismo" android:id="@+id/examen_tu"/>
+
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+
+</android.support.design.widget.CoordinatorLayout>
